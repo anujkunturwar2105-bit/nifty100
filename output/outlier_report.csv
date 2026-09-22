@@ -1,0 +1,8 @@
+company_id,broad_sector,metric,value,sector_mean,sector_std,z_score
+INDIGO,Consumer Discretionary,return_on_equity_pct,892.57,86.72,232.1,3.47
+TATAMOTORS,Consumer Discretionary,free_cash_flow_cr,45133.0,4423.93,12606.65,3.23
+ADANIGREEN,Energy,debt_to_equity,6.38,1.33,1.54,3.29
+GAIL,Energy,interest_coverage,26.84,7.32,6.35,3.07
+PNB,Financials,return_on_equity_pct,61.32,19.01,13.02,3.25
+BAJAJHLDNG,Financials,net_profit_margin_pct,431.97,38.16,87.39,4.51
+BAJAJHLDNG,Financials,interest_coverage,3804.5,178.58,906.23,4.0

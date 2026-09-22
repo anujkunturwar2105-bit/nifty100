@@ -1,0 +1,110 @@
+company_id,company_name,pdf_filename,file_size_kb,status
+ABB,Abbott India Ltd,ABB_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ADANIENSOL,Adani Energy Solutions Ltd,ADANIENSOL_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ADANIENT,Adani Enterprises Ltd,ADANIENT_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ADANIGREEN,Adani Green Energy Ltd,ADANIGREEN_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",ADANIPORTS_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ADANIPOWER,Adani Power Ltd,ADANIPOWER_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+AMBUJACEM,Ambuja Cements Ltd,AMBUJACEM_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",APOLLOHOSP_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",ASIANPAINT_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ATGL,Adani Total Gas Ltd,ATGL_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+AXISBANK,Axis Bank Ltd,AXISBANK_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+BAJAJ-AUTO,Bajaj Auto Ltd,BAJAJ-AUTO_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+BAJAJFINSV,Bajaj Finserv Ltd,BAJAJFINSV_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,BAJAJHLDNG_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+BAJFINANCE,Bajaj Finance Ltd,BAJFINANCE_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+BANKBARODA,Bank of Baroda,BANKBARODA_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+BEL,Bharat Electronics Ltd,BEL_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+BHARTIARTL,Bharti Airtel Ltd,BHARTIARTL_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+BHEL,"Bharat Heavy Electricals Limited
+",BHEL_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+BOSCHLTD,Bosch Ltd,BOSCHLTD_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+BPCL,Bharat Petroleum Corporation Ltd,BPCL_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+BRITANNIA,Britannia Industries Ltd,BRITANNIA_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+CANBK,Canara Bank,CANBK_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,CHOLAFIN_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+CIPLA,"Cipla Ltd
+",CIPLA_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+COALINDIA,Coal India Ltd,COALINDIA_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+DABUR,Dabur India Ltd,DABUR_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+DIVISLAB,Divis Laboratories Ltd,DIVISLAB_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+DLF,DLF Ltd,DLF_Tearsheet.pdf,2,VERIFIED_VALID_PDF
+DMART,Avenue Supermarts Ltd,DMART_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+DRREDDY,Dr Reddys Laboratories Ltd,DRREDDY_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+EICHERMOT,Eicher Motors Ltd,EICHERMOT_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+GAIL,GAIL (India) Ltd,GAIL_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+GODREJCP,Godrej Consumer Products Ltd,GODREJCP_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+GRASIM,Grasim Industries Ltd,GRASIM_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+HAL,Hindustan Aeronautics Ltd,HAL_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+HAVELLS,Havells India Ltd,HAVELLS_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+HCLTECH,HCL Technologies Ltd,HCLTECH_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+HDFCBANK,HDFC Bank Ltd,HDFCBANK_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+HDFCLIFE,HDFC Life Insurance Company Ltd,HDFCLIFE_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+HEROMOTOCO,"Hero MotoCorp Ltd
+",HEROMOTOCO_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+HINDALCO,Hindalco Industries Ltd,HINDALCO_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+HINDUNILVR,"Hindustan Unilever Ltd
+",HINDUNILVR_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ICICIBANK,ICICI Bank Ltd,ICICIBANK_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ICICIGI,ICICI Lombard General Insurance Company Ltd,ICICIGI_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,ICICIPRULI_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+INDIGO,Interglobe Aviation Ltd,INDIGO_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+INDUSINDBK,IndusInd Bank Ltd,INDUSINDBK_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+INFY,Infosys Ltd,INFY_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+IOC,"Indian Oil Corporation
+",IOC_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,IRCTC_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+IRFC,Indian Railway Finance Corporation Ltd,IRFC_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ITC,"ITC Ltd
+",ITC_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+JINDALSTEL,Jindal Steel & Power Ltd,JINDALSTEL_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+JIOFIN,Jio Financial Services Ltd,JIOFIN_Tearsheet.pdf,2,VERIFIED_VALID_PDF
+JSWENERGY,JSW Energy Ltd,JSWENERGY_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+JSWSTEEL,JSW Steel Ltd,JSWSTEEL_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",KOTAKBANK_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+LICI,Life Insurance Corporation of India,LICI_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+LODHA,Macrotech Developers Ltd,LODHA_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+LTIM,LTIMindtree Ltd,LTIM_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+LT,Larsen & Toubro Ltd,LT_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+M&M,"Mahindra & Mahindra Ltd
+",M&M_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+MARUTI,Maruti Suzuki India Ltd,MARUTI_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+MOTHERSON,Samvardhana Motherson International Ltd,MOTHERSON_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+NAUKRI,Info Edge (India) Ltd,NAUKRI_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+NESTLEIND,Nestle India Ltd,NESTLEIND_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+NHPC,"NHPC Ltd
+",NHPC_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+NTPC,NTPC Ltd,NTPC_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+ONGC,Oil & Natural Gas Corpn Ltd,ONGC_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+PFC,Power Finance Corporation Ltd,PFC_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+PIDILITIND,Pidilite Industries Ltd,PIDILITIND_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+PNB,Punjab National Bank,PNB_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+POWERGRID,Power Grid Corporation of India Ltd,POWERGRID_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+RECLTD,REC Ltd,RECLTD_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+RELIANCE,"Reliance Industries Ltd
+",RELIANCE_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+SBILIFE,SBI Life Insurance Company Ltd,SBILIFE_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+SBIN,State Bank of India,SBIN_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+SHREECEM,Shree Cement Ltd,SHREECEM_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+SHRIRAMFIN,"Shriram Finance Ltd
+",SHRIRAMFIN_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+SIEMENS,Siemens Ltd,SIEMENS_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,SUNPHARMA_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+TATACONSUM,Tata Consumer Products Ltd,TATACONSUM_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+TATAMOTORS,Tata Motors Ltd,TATAMOTORS_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+TATAPOWER,"Tata Power Company Ltd
+",TATAPOWER_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+TATASTEEL,"Tata Steel Ltd
+",TATASTEEL_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+TCS,Tata Consultancy Services Ltd,TCS_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+TECHM,Tech Mahindra Ltd,TECHM_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+TITAN,"Titan Company Ltd
+",TITAN_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+TORNTPHARM,Torrent Pharmaceuticals Ltd,TORNTPHARM_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+TRENT,Trent Ltd,TRENT_Tearsheet.pdf,3,VERIFIED_VALID_PDF
+TVSMOTOR,TVS Motor Company Ltd,TVSMOTOR_Tearsheet.pdf,3,VERIFIED_VALID_PDF

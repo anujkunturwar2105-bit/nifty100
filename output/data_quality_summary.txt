@@ -1,0 +1,31 @@
+==================================================
+NIFTY 100 PLATFORM DATA QUALITY SUMMARY
+Generated: 2026-09-23T02:13:53.361354
+==================================================
+
+Source File Performance:
+--------------------------------------------------
+Source: companies.xlsx            | In:    92 | Out:    92 | Warnings:   0 | Critical:   2
+Source: profitandloss.xlsx        | In:  1276 | Out:  1164 | Warnings: 110 | Critical: 1164
+Source: balancesheet.xlsx         | In:  1312 | Out:  1140 | Warnings:  89 | Critical: 1140
+Source: cashflow.xlsx             | In:  1187 | Out:  1063 | Warnings:  37 | Critical: 1063
+Source: analysis.xlsx             | In:    20 | Out:    16 | Warnings:   0 | Critical:  16
+Source: documents.xlsx            | In:  1585 | Out:  1456 | Warnings:   0 | Critical: 2912
+Source: prosandcons.xlsx          | In:    16 | Out:    14 | Warnings:   0 | Critical:  14
+Source: sectors.xlsx              | In:    92 | Out:    92 | Warnings:   0 | Critical:  92
+Source: stock_prices.xlsx         | In:  5520 | Out:  5520 | Warnings:   0 | Critical: 5520
+Source: market_cap.xlsx           | In:   552 | Out:   552 | Warnings:   0 | Critical: 552
+Source: financial_ratios.xlsx     | In:  1184 | Out:  1041 | Warnings:   0 | Critical: 1041
+Source: peer_groups.xlsx          | In:    56 | Out:    56 | Warnings:   0 | Critical:  56
+
+Data Quality Highlights:
+--------------------------------------------------
+- Master Companies Universe: 92 companies
+- Ratio Conflict Records: 11
+- Document Duplicate Audit Logs: 1
+- Parsed Analysis CAGR Records: 59
+- Total Validation Issues Flagged: 13808
+- SQLite Foreign Key Violations: 0
+
+Status: PIPELINE COMPLETE
+==================================================

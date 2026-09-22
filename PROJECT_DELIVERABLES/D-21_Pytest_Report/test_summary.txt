@@ -1,0 +1,11 @@
+PYTEST TEST SUITE SUMMARY
+==================================================
+Total Tests Collected : 73
+Passed               : 73
+Failed               : 0
+Skipped              : 0
+Errors               : 0
+Pass Rate            : 100.0%
+Statement Coverage   : 81%
+Report File          : reports/pytest_report.html
+==================================================

@@ -1,0 +1,84 @@
+company_id,year,conflict_type,source_rows,fields_different,resolution,resolution_reason
+ABB,2014-03,DATA_CONFLICT,"[1, 2]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_1,Highest non-null and non-zero attribute count.
+ABB,2015-03,DATA_CONFLICT,"[3, 4]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_3,Highest non-null and non-zero attribute count.
+ABB,2016-03,DATA_CONFLICT,"[5, 6]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_5,Highest non-null and non-zero attribute count.
+ABB,2017-03,DATA_CONFLICT,"[7, 8]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_7,Highest non-null and non-zero attribute count.
+ABB,2018-03,DATA_CONFLICT,"[9, 10]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_9,Highest non-null and non-zero attribute count.
+ABB,2019-03,DATA_CONFLICT,"[11, 12]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_11,Highest non-null and non-zero attribute count.
+ABB,2020-03,DATA_CONFLICT,"[13, 14]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_13,Highest non-null and non-zero attribute count.
+ABB,2021-03,DATA_CONFLICT,"[15, 16]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_15,Highest non-null and non-zero attribute count.
+ABB,2022-03,DATA_CONFLICT,"[17, 18]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_17,Highest non-null and non-zero attribute count.
+ABB,2023-03,DATA_CONFLICT,"[19, 20]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_19,Highest non-null and non-zero attribute count.
+ABB,2024-03,DATA_CONFLICT,"[21, 22]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_21,Highest non-null and non-zero attribute count.
+ADANIPORTS,2013-03,EXACT_DUPLICATE,"[54, 66]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ADANIPORTS,2014-03,EXACT_DUPLICATE,"[55, 67]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ADANIPORTS,2015-03,EXACT_DUPLICATE,"[56, 68]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ADANIPORTS,2016-03,EXACT_DUPLICATE,"[57, 69]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ADANIPORTS,2017-03,EXACT_DUPLICATE,"[58, 70]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ADANIPORTS,2018-03,EXACT_DUPLICATE,"[59, 71]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ADANIPORTS,2019-03,EXACT_DUPLICATE,"[60, 72]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ADANIPORTS,2020-03,EXACT_DUPLICATE,"[61, 73]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ADANIPORTS,2021-03,EXACT_DUPLICATE,"[62, 74]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ADANIPORTS,2022-03,EXACT_DUPLICATE,"[63, 75]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ADANIPORTS,2023-03,EXACT_DUPLICATE,"[64, 76]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ADANIPORTS,2024-03,EXACT_DUPLICATE,"[65, 77]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2013-03,EXACT_DUPLICATE,"[113, 114]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2014-03,EXACT_DUPLICATE,"[115, 116]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2015-03,EXACT_DUPLICATE,"[117, 118]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2016-03,EXACT_DUPLICATE,"[119, 120]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2017-03,EXACT_DUPLICATE,"[121, 122]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2018-03,EXACT_DUPLICATE,"[123, 124]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2019-03,EXACT_DUPLICATE,"[125, 126]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2020-03,EXACT_DUPLICATE,"[127, 128]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2021-03,EXACT_DUPLICATE,"[129, 130]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2022-03,EXACT_DUPLICATE,"[131, 132]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2023-03,EXACT_DUPLICATE,"[133, 134]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+ASIANPAINT,2024-03,EXACT_DUPLICATE,"[135, 136]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2013-03,EXACT_DUPLICATE,"[137, 138]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2014-03,EXACT_DUPLICATE,"[139, 140]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2015-03,EXACT_DUPLICATE,"[141, 142]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2016-03,EXACT_DUPLICATE,"[143, 144]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2017-03,EXACT_DUPLICATE,"[145, 146]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2018-03,EXACT_DUPLICATE,"[147, 148]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2019-03,EXACT_DUPLICATE,"[149, 150]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2020-03,EXACT_DUPLICATE,"[151, 152]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2021-03,EXACT_DUPLICATE,"[153, 154]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2022-03,EXACT_DUPLICATE,"[155, 156]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2023-03,EXACT_DUPLICATE,"[157, 158]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+BAJAJ-AUTO,2024-03,EXACT_DUPLICATE,"[159, 160]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2013-03,EXACT_DUPLICATE,"[849, 850, 851, 852, 853]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2014-03,EXACT_DUPLICATE,"[854, 855, 856, 857, 858]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2015-03,EXACT_DUPLICATE,"[859, 860, 861, 862, 863]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2016-03,EXACT_DUPLICATE,"[864, 865, 866, 867, 868]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2017-03,EXACT_DUPLICATE,"[869, 870, 871, 872, 873]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2018-03,EXACT_DUPLICATE,"[874, 875, 876, 877, 878]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2019-03,EXACT_DUPLICATE,"[879, 880, 881, 882, 883]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2020-03,EXACT_DUPLICATE,"[884, 885, 886, 887, 888]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2021-03,EXACT_DUPLICATE,"[889, 890, 891, 892, 893]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2022-03,EXACT_DUPLICATE,"[894, 895, 896, 897, 898]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2023-03,EXACT_DUPLICATE,"[899, 900, 901, 902, 903]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+PNB,2024-03,EXACT_DUPLICATE,"[904, 905, 906, 907, 908]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2013-03,EXACT_DUPLICATE,"[909, 910]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2014-03,EXACT_DUPLICATE,"[911, 912]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2015-03,EXACT_DUPLICATE,"[913, 914]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2016-03,EXACT_DUPLICATE,"[915, 916]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2017-03,EXACT_DUPLICATE,"[917, 918]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2018-03,EXACT_DUPLICATE,"[919, 920]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2019-03,EXACT_DUPLICATE,"[921, 922]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2020-03,EXACT_DUPLICATE,"[923, 924]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2021-03,EXACT_DUPLICATE,"[925, 926]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2022-03,EXACT_DUPLICATE,"[927, 928]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2023-03,EXACT_DUPLICATE,"[929, 930]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+POWERGRID,2024-03,EXACT_DUPLICATE,"[931, 932]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2013-03,EXACT_DUPLICATE,"[1076, 1077]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2014-03,EXACT_DUPLICATE,"[1078, 1079]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2015-03,EXACT_DUPLICATE,"[1080, 1081]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2016-03,EXACT_DUPLICATE,"[1082, 1083]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2017-03,EXACT_DUPLICATE,"[1084, 1085]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2018-03,EXACT_DUPLICATE,"[1086, 1087]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2019-03,EXACT_DUPLICATE,"[1088, 1089]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2020-03,EXACT_DUPLICATE,"[1090, 1091]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2021-03,EXACT_DUPLICATE,"[1092, 1093]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2022-03,EXACT_DUPLICATE,"[1094, 1095]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2023-03,EXACT_DUPLICATE,"[1096, 1097]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.
+TECHM,2024-03,EXACT_DUPLICATE,"[1098, 1099]",NONE,RETAINED_FIRST_EXACT,Exact duplicate across all 15 fields.

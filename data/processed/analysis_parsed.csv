@@ -1,0 +1,60 @@
+id,company_id,metric,period,value_pct,raw_text
+1,HDFCBANK,compounded_sales_growth,10 Years,21.0,10 Years: 21%
+2,HDFCBANK,compounded_profit_growth,10 Years,22.0,10 Years: 22%
+3,HDFCBANK,stock_price_cagr,10 Years,15.0,10 Years:     15%
+4,HDFCBANK,roe,10 Years,17.0,10 Years:     17%
+5,SBILIFE,compounded_sales_growth,5 Years,24.0,5 Years:       24%
+6,SBILIFE,compounded_profit_growth,5 Years,6.0,5 Years:            6%
+7,SBILIFE,stock_price_cagr,5 Years,8.0,5 Years:       8%
+8,SBILIFE,compounded_sales_growth,3 Years,17.0,3 Years:       17%
+9,SBILIFE,compounded_profit_growth,3 Years,9.0,3 Years:            9%
+10,SBILIFE,stock_price_cagr,3 Years,7.0,3 Years:       7%
+11,SBILIFE,roe,3 Years,13.0,3 Years:         13%
+12,SBILIFE,compounded_sales_growth,TTM,43.0,TTM:            43%
+13,SBILIFE,compounded_profit_growth,TTM,18.0,TTM:                 18%
+14,SBILIFE,roe,Last Year,12.0,Last Year:      12%
+15,TCS,compounded_sales_growth,10 Years,11.0,10 Years:     11%
+16,TCS,compounded_profit_growth,10 Years,9.0,10 Years:          9%
+17,TCS,stock_price_cagr,10 Years,14.0,10 Years:      14%
+18,TCS,roe,10 Years,40.0,10 Years:       40%
+19,TCS,compounded_sales_growth,5 Years,10.0,5 Years:       10%
+20,TCS,compounded_profit_growth,5 Years,8.0,5 Years:            8%
+21,TCS,stock_price_cagr,5 Years,16.0,5 Years:      16%
+22,TCS,roe,5 Years,44.0,5 Years:          44%
+23,TCS,compounded_sales_growth,3 Years,14.0,3 Years:       14%
+24,TCS,compounded_profit_growth,3 Years,12.0,3 Years:            12%
+25,TCS,stock_price_cagr,3 Years,8.0,3 Years:      8%
+26,TCS,roe,3 Years,47.0,3 Years:          47%
+27,TCS,compounded_sales_growth,TTM,5.0,TTM:            5%
+28,TCS,compounded_profit_growth,TTM,8.0,TTM:                 8%
+29,TCS,roe,Last Year,52.0,Last Year:       52%
+30,HDFCBANK,compounded_sales_growth,5 Years,22.0,5 Years:       22%
+31,HDFCBANK,compounded_profit_growth,5 Years,23.0,5 Years:           23%
+32,HDFCBANK,stock_price_cagr,5 Years,8.0,5 Years:       8%
+33,HDFCBANK,roe,5 Years,17.0,5 Years:       17%
+34,HDFCBANK,compounded_sales_growth,3 Years,30.0,3 Years:       30%
+35,HDFCBANK,compounded_profit_growth,3 Years,26.0,3 Years:           26%
+36,HDFCBANK,stock_price_cagr,3 Years,8.0,3 Years:       8%
+37,HDFCBANK,roe,3 Years,17.0,3 Years:       17%
+38,HDFCBANK,compounded_sales_growth,TTM,47.0,TTM:            47%
+39,HDFCBANK,compounded_profit_growth,TTM,27.0,TTM:                27%
+40,HDFCBANK,roe,Last Year,17.0,Last Year:    17%
+41,INFY,compounded_sales_growth,10 Years,12.0,10 Years:     12%
+42,INFY,compounded_profit_growth,10 Years,9.0,10 Years:         9%
+43,INFY,stock_price_cagr,10 Years,15.0,10 Years:     15%
+44,INFY,roe,10 Years,27.0,10 Years:      27%
+45,INFY,compounded_sales_growth,5 Years,13.0,5 Years:       13%
+46,INFY,compounded_profit_growth,5 Years,11.0,5 Years:           11%
+47,INFY,stock_price_cagr,5 Years,22.0,5 Years:     22%
+48,INFY,roe,5 Years,29.0,5 Years:        29%
+49,INFY,compounded_sales_growth,3 Years,5.0,3 Years:       5%
+50,INFY,compounded_profit_growth,3 Years,10.0,3 Years:           10%
+51,INFY,stock_price_cagr,3 Years,4.0,3 Years:     4%
+52,INFY,roe,3 Years,31.0,3 Years:        31%
+53,INFY,compounded_sales_growth,TTM,3.0,TTM:            3%
+54,INFY,compounded_profit_growth,TTM,8.0,TTM:                 8%
+55,INFY,roe,Last Year,32.0,Last Year:     32%
+56,SBILIFE,compounded_sales_growth,10 Years,23.0,10 Years:     23%
+57,SBILIFE,compounded_profit_growth,10 Years,9.0,10 Years:          9%
+58,SBILIFE,stock_price_cagr,10 Years,9.0,10 Years:      9%
+59,SBILIFE,roe,10 Years,16.0,10 Years:      16%

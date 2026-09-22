@@ -1,0 +1,49 @@
+presets:
+  QUALITY:
+    name: "High Quality Compounders"
+    description: "High ROE, strong operating margins, low leverage, positive free cash flow"
+    filters:
+      roe_min: 15.0
+      opm_min: 15.0
+      debt_to_equity_max: 0.5
+      fcf_min: 0.0
+
+  VALUE:
+    name: "Deep Value"
+    description: "Attractive valuation metrics with healthy dividend yield"
+    filters:
+      pe_max: 20.0
+      pb_max: 3.0
+      dividend_yield_min: 1.5
+      roe_min: 10.0
+
+  GROWTH:
+    name: "High Growth Stars"
+    description: "Strong multi-year revenue and profit CAGR with high returns"
+    filters:
+      revenue_cagr_3y_min: 12.0
+      pat_cagr_3y_min: 15.0
+      roe_min: 15.0
+
+  DIVIDEND:
+    name: "Dividend Champions"
+    description: "High dividend yield and consistent dividend payout ratio"
+    filters:
+      dividend_yield_min: 2.0
+      dividend_payout_ratio_min: 20.0
+      debt_to_equity_max: 1.0
+
+  MOMENTUM:
+    name: "High Momentum"
+    description: "Strong recent profit growth and high operating profit margin"
+    filters:
+      pat_cagr_1y_min: 20.0
+      opm_min: 18.0
+
+  DEBT_FREE:
+    name: "Zero Debt Fortress"
+    description: "Debt-free companies with excellent cash flow and return metrics"
+    filters:
+      debt_to_equity_max: 0.05
+      roe_min: 12.0
+      fcf_min: 0.0

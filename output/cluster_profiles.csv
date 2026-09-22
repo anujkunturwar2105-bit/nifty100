@@ -1,0 +1,7 @@
+cluster_label,cluster_name,return_on_equity_pct,return_on_equity_pct,return_on_equity_pct,debt_to_equity,debt_to_equity,debt_to_equity,operating_profit_margin_pct,operating_profit_margin_pct,operating_profit_margin_pct,net_profit_margin_pct,net_profit_margin_pct,net_profit_margin_pct,free_cash_flow_cr,free_cash_flow_cr,free_cash_flow_cr
+,,mean,median,count,mean,median,count,mean,median,count,mean,median,count,mean,median,count
+0,High Return Compounders,22.09900338983051,17.0673,59,0.5086610169491526,0.1693,59,18.600898305084744,18.186,59,12.07266440677966,11.7839,59,6000.661016949152,1095.0,59
+1,Capital Intensive & High Leverage,21.7098,17.08565,12,7.233391666666667,6.7323,12,43.012616666666666,36.686449999999994,12,19.605216666666667,17.5001,12,-38277.0,-30402.0,12
+2,Stable Cash Generators,4280.31525,4280.31525,2,0.72805,0.72805,2,29.20375,29.20375,2,24.1207,24.1207,2,274.5,274.5,2
+3,Moderate Performers,13.5768,13.5768,1,0.0008,0.0008,1,89.6711,89.6711,1,431.9677,431.9677,1,1469.0,1469.0,1
+4,Low Margin / Turnaround,64.04393888888889,14.8473,18,1.75105,0.30525,18,77.41832777777778,78.4967,18,22.36356111111111,20.208750000000002,18,8017.5,8078.0,18

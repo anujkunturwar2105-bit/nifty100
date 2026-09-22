@@ -1,0 +1,6 @@
+company_id,metric,raw_text,reason
+SBILIFE,roe,5 Years          14%,Pattern match failed for period:value% regex
+SBILIFE,stock_price_cagr,1 Year:         -2%,Pattern match failed for period:value% regex
+TCS,stock_price_cagr,1 Year:       16%,Pattern match failed for period:value% regex
+HDFCBANK,stock_price_cagr,1 Year:        13%,Pattern match failed for period:value% regex
+INFY,stock_price_cagr,1 Year:       27%,Pattern match failed for period:value% regex

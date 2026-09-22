@@ -1,0 +1,12 @@
+company_id,year,conflict_type,source_rows,fields_different,resolution,resolution_reason
+ABB,2014-03,DATA_CONFLICT,"[1, 2]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_1,Highest non-null and non-zero attribute count.
+ABB,2015-03,DATA_CONFLICT,"[3, 4]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_3,Highest non-null and non-zero attribute count.
+ABB,2016-03,DATA_CONFLICT,"[5, 6]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_5,Highest non-null and non-zero attribute count.
+ABB,2017-03,DATA_CONFLICT,"[7, 8]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_7,Highest non-null and non-zero attribute count.
+ABB,2018-03,DATA_CONFLICT,"[9, 10]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_9,Highest non-null and non-zero attribute count.
+ABB,2019-03,DATA_CONFLICT,"[11, 12]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_11,Highest non-null and non-zero attribute count.
+ABB,2020-03,DATA_CONFLICT,"[13, 14]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_13,Highest non-null and non-zero attribute count.
+ABB,2021-03,DATA_CONFLICT,"[15, 16]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_15,Highest non-null and non-zero attribute count.
+ABB,2022-03,DATA_CONFLICT,"[17, 18]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_17,Highest non-null and non-zero attribute count.
+ABB,2023-03,DATA_CONFLICT,"[19, 20]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_19,Highest non-null and non-zero attribute count.
+ABB,2024-03,DATA_CONFLICT,"[21, 22]","free_cash_flow_cr,capex_cr,cash_from_operations_cr",RETAINED_DETERMINISTIC_ROW_21,Highest non-null and non-zero attribute count.

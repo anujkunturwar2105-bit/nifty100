@@ -1,0 +1,110 @@
+company_id,company_name,chart_filename,status
+ABB,Abbott India Ltd,ABB_radar.png,VERIFIED_EXISTS
+ADANIENSOL,Adani Energy Solutions Ltd,ADANIENSOL_radar.png,VERIFIED_EXISTS
+ADANIENT,Adani Enterprises Ltd,ADANIENT_radar.png,VERIFIED_EXISTS
+ADANIGREEN,Adani Green Energy Ltd,ADANIGREEN_radar.png,VERIFIED_EXISTS
+ADANIPORTS,"Adani Ports & Special Economic Zone Ltd
+",ADANIPORTS_radar.png,VERIFIED_EXISTS
+ADANIPOWER,Adani Power Ltd,ADANIPOWER_radar.png,VERIFIED_EXISTS
+AMBUJACEM,Ambuja Cements Ltd,AMBUJACEM_radar.png,VERIFIED_EXISTS
+APOLLOHOSP,"Apollo Hospitals
+Chain of Indian private hospitals",APOLLOHOSP_radar.png,VERIFIED_EXISTS
+ASIANPAINT,"Asian Paints
+Indian Multi-National Paint and Coating Manufacturing Company",ASIANPAINT_radar.png,VERIFIED_EXISTS
+ATGL,Adani Total Gas Ltd,ATGL_radar.png,VERIFIED_EXISTS
+AXISBANK,Axis Bank Ltd,AXISBANK_radar.png,VERIFIED_EXISTS
+BAJAJ-AUTO,Bajaj Auto Ltd,BAJAJ-AUTO_radar.png,VERIFIED_EXISTS
+BAJAJFINSV,Bajaj Finserv Ltd,BAJAJFINSV_radar.png,VERIFIED_EXISTS
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd,BAJAJHLDNG_radar.png,VERIFIED_EXISTS
+BAJFINANCE,Bajaj Finance Ltd,BAJFINANCE_radar.png,VERIFIED_EXISTS
+BANKBARODA,Bank of Baroda,BANKBARODA_radar.png,VERIFIED_EXISTS
+BEL,Bharat Electronics Ltd,BEL_radar.png,VERIFIED_EXISTS
+BHARTIARTL,Bharti Airtel Ltd,BHARTIARTL_radar.png,VERIFIED_EXISTS
+BHEL,"Bharat Heavy Electricals Limited
+",BHEL_radar.png,VERIFIED_EXISTS
+BOSCHLTD,Bosch Ltd,BOSCHLTD_radar.png,VERIFIED_EXISTS
+BPCL,Bharat Petroleum Corporation Ltd,BPCL_radar.png,VERIFIED_EXISTS
+BRITANNIA,Britannia Industries Ltd,BRITANNIA_radar.png,VERIFIED_EXISTS
+CANBK,Canara Bank,CANBK_radar.png,VERIFIED_EXISTS
+CHOLAFIN,Cholamandalam Investment & Finance Company Ltd,CHOLAFIN_radar.png,VERIFIED_EXISTS
+CIPLA,"Cipla Ltd
+",CIPLA_radar.png,VERIFIED_EXISTS
+COALINDIA,Coal India Ltd,COALINDIA_radar.png,VERIFIED_EXISTS
+DABUR,Dabur India Ltd,DABUR_radar.png,VERIFIED_EXISTS
+DIVISLAB,Divis Laboratories Ltd,DIVISLAB_radar.png,VERIFIED_EXISTS
+DLF,DLF Ltd,DLF_radar.png,VERIFIED_EXISTS
+DMART,Avenue Supermarts Ltd,DMART_radar.png,VERIFIED_EXISTS
+DRREDDY,Dr Reddys Laboratories Ltd,DRREDDY_radar.png,VERIFIED_EXISTS
+EICHERMOT,Eicher Motors Ltd,EICHERMOT_radar.png,VERIFIED_EXISTS
+GAIL,GAIL (India) Ltd,GAIL_radar.png,VERIFIED_EXISTS
+GODREJCP,Godrej Consumer Products Ltd,GODREJCP_radar.png,VERIFIED_EXISTS
+GRASIM,Grasim Industries Ltd,GRASIM_radar.png,VERIFIED_EXISTS
+HAL,Hindustan Aeronautics Ltd,HAL_radar.png,VERIFIED_EXISTS
+HAVELLS,Havells India Ltd,HAVELLS_radar.png,VERIFIED_EXISTS
+HCLTECH,HCL Technologies Ltd,HCLTECH_radar.png,VERIFIED_EXISTS
+HDFCBANK,HDFC Bank Ltd,HDFCBANK_radar.png,VERIFIED_EXISTS
+HDFCLIFE,HDFC Life Insurance Company Ltd,HDFCLIFE_radar.png,VERIFIED_EXISTS
+HEROMOTOCO,"Hero MotoCorp Ltd
+",HEROMOTOCO_radar.png,VERIFIED_EXISTS
+HINDALCO,Hindalco Industries Ltd,HINDALCO_radar.png,VERIFIED_EXISTS
+HINDUNILVR,"Hindustan Unilever Ltd
+",HINDUNILVR_radar.png,VERIFIED_EXISTS
+ICICIBANK,ICICI Bank Ltd,ICICIBANK_radar.png,VERIFIED_EXISTS
+ICICIGI,ICICI Lombard General Insurance Company Ltd,ICICIGI_radar.png,VERIFIED_EXISTS
+ICICIPRULI,ICICI Prudential Life Insurance Company Ltd,ICICIPRULI_radar.png,VERIFIED_EXISTS
+INDIGO,Interglobe Aviation Ltd,INDIGO_radar.png,VERIFIED_EXISTS
+INDUSINDBK,IndusInd Bank Ltd,INDUSINDBK_radar.png,VERIFIED_EXISTS
+INFY,Infosys Ltd,INFY_radar.png,VERIFIED_EXISTS
+IOC,"Indian Oil Corporation
+",IOC_radar.png,VERIFIED_EXISTS
+IRCTC,Indian Railway Catering & Tourism Corporation Ltd,IRCTC_radar.png,VERIFIED_EXISTS
+IRFC,Indian Railway Finance Corporation Ltd,IRFC_radar.png,VERIFIED_EXISTS
+ITC,"ITC Ltd
+",ITC_radar.png,VERIFIED_EXISTS
+JINDALSTEL,Jindal Steel & Power Ltd,JINDALSTEL_radar.png,VERIFIED_EXISTS
+JIOFIN,Jio Financial Services Ltd,JIOFIN_radar.png,VERIFIED_EXISTS
+JSWENERGY,JSW Energy Ltd,JSWENERGY_radar.png,VERIFIED_EXISTS
+JSWSTEEL,JSW Steel Ltd,JSWSTEEL_radar.png,VERIFIED_EXISTS
+KOTAKBANK,"Kotak Mahindra Bank Ltd
+",KOTAKBANK_radar.png,VERIFIED_EXISTS
+LICI,Life Insurance Corporation of India,LICI_radar.png,VERIFIED_EXISTS
+LODHA,Macrotech Developers Ltd,LODHA_radar.png,VERIFIED_EXISTS
+LTIM,LTIMindtree Ltd,LTIM_radar.png,VERIFIED_EXISTS
+LT,Larsen & Toubro Ltd,LT_radar.png,VERIFIED_EXISTS
+M&M,"Mahindra & Mahindra Ltd
+",M&M_radar.png,VERIFIED_EXISTS
+MARUTI,Maruti Suzuki India Ltd,MARUTI_radar.png,VERIFIED_EXISTS
+MOTHERSON,Samvardhana Motherson International Ltd,MOTHERSON_radar.png,VERIFIED_EXISTS
+NAUKRI,Info Edge (India) Ltd,NAUKRI_radar.png,VERIFIED_EXISTS
+NESTLEIND,Nestle India Ltd,NESTLEIND_radar.png,VERIFIED_EXISTS
+NHPC,"NHPC Ltd
+",NHPC_radar.png,VERIFIED_EXISTS
+NTPC,NTPC Ltd,NTPC_radar.png,VERIFIED_EXISTS
+ONGC,Oil & Natural Gas Corpn Ltd,ONGC_radar.png,VERIFIED_EXISTS
+PFC,Power Finance Corporation Ltd,PFC_radar.png,VERIFIED_EXISTS
+PIDILITIND,Pidilite Industries Ltd,PIDILITIND_radar.png,VERIFIED_EXISTS
+PNB,Punjab National Bank,PNB_radar.png,VERIFIED_EXISTS
+POWERGRID,Power Grid Corporation of India Ltd,POWERGRID_radar.png,VERIFIED_EXISTS
+RECLTD,REC Ltd,RECLTD_radar.png,VERIFIED_EXISTS
+RELIANCE,"Reliance Industries Ltd
+",RELIANCE_radar.png,VERIFIED_EXISTS
+SBILIFE,SBI Life Insurance Company Ltd,SBILIFE_radar.png,VERIFIED_EXISTS
+SBIN,State Bank of India,SBIN_radar.png,VERIFIED_EXISTS
+SHREECEM,Shree Cement Ltd,SHREECEM_radar.png,VERIFIED_EXISTS
+SHRIRAMFIN,"Shriram Finance Ltd
+",SHRIRAMFIN_radar.png,VERIFIED_EXISTS
+SIEMENS,Siemens Ltd,SIEMENS_radar.png,VERIFIED_EXISTS
+SUNPHARMA,Sun Pharmaceuticals Industries Ltd,SUNPHARMA_radar.png,VERIFIED_EXISTS
+TATACONSUM,Tata Consumer Products Ltd,TATACONSUM_radar.png,VERIFIED_EXISTS
+TATAMOTORS,Tata Motors Ltd,TATAMOTORS_radar.png,VERIFIED_EXISTS
+TATAPOWER,"Tata Power Company Ltd
+",TATAPOWER_radar.png,VERIFIED_EXISTS
+TATASTEEL,"Tata Steel Ltd
+",TATASTEEL_radar.png,VERIFIED_EXISTS
+TCS,Tata Consultancy Services Ltd,TCS_radar.png,VERIFIED_EXISTS
+TECHM,Tech Mahindra Ltd,TECHM_radar.png,VERIFIED_EXISTS
+TITAN,"Titan Company Ltd
+",TITAN_radar.png,VERIFIED_EXISTS
+TORNTPHARM,Torrent Pharmaceuticals Ltd,TORNTPHARM_radar.png,VERIFIED_EXISTS
+TRENT,Trent Ltd,TRENT_radar.png,VERIFIED_EXISTS
+TVSMOTOR,TVS Motor Company Ltd,TVSMOTOR_radar.png,VERIFIED_EXISTS

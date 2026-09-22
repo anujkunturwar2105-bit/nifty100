@@ -1,0 +1,1064 @@
+company_id,year,cfo_sign,cfi_sign,cff_sign,pattern,classification,capex_intensity,fcf_conversion
+TCS,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.59,39.62
+TCS,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.55,27.41
+TCS,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.91,87.55
+TCS,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.61,57.93
+TCS,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.32,31.6
+TCS,2018-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,96.86
+TCS,2019-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,90.59
+TCS,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,99.76
+TCS,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.85,94.73
+TCS,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.38,101.98
+TCS,2023-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,99.2
+TCS,2024-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,96.18
+ABB,2012-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.57,28.97
+ABB,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.33,5.56
+ABB,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.17,12.23
+ABB,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.95,67.45
+ABB,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.34,54.87
+ABB,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.52,-15.46
+ABB,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.99,53.78
+ABB,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.8,37.94
+ABB,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.67,94.79
+ABB,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.06,69.09
+ABB,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.77,78.5
+ABB,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.11,66.36
+ADANIENSOL,2014-03,0,0,0,0 / 0 / 0,Balanced Capital Transition,,
+ADANIENSOL,2015-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1422.9,
+ADANIENSOL,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,37.19,197.83
+ADANIENSOL,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,60.15,110.34
+ADANIENSOL,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,80.93,-86.96
+ADANIENSOL,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,41.75,-82.11
+ADANIENSOL,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,49.43,-29.18
+ADANIENSOL,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,40.39,-17.44
+ADANIENSOL,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,34.96,13.03
+ADANIENSOL,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,35.35,-71.98
+ADANIENSOL,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,29.76,91.56
+ADANIENT,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,31.89,-584.89
+ADANIENT,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.57,8.35
+ADANIENT,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,17.78,-127.63
+ADANIENT,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.37,328.7
+ADANIENT,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,4.0,-74.16
+ADANIENT,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,21.29,-792.42
+ADANIENT,2019-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,639.53
+ADANIENT,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.49,131.92
+ADANIENT,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,21.78,-436.71
+ADANIENT,2022-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,24.55,-1986.8
+ADANIENT,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.12,89.47
+ADANIENT,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,19.46,-253.52
+ADANIGREEN,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,301.0,
+ADANIGREEN,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,299.19,
+ADANIGREEN,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,129.54,
+ADANIGREEN,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,146.84,
+ADANIGREEN,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,292.48,-4140.66
+ADANIGREEN,2022-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,364.89,-3190.8
+ADANIGREEN,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,49.6,350.26
+ADANIGREEN,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,228.42,-1059.29
+ADANIPORTS,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,143.58,-229.23
+ADANIPORTS,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,51.97,-79.15
+ADANIPORTS,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,40.39,24.61
+ADANIPORTS,2016-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,58.42,-62.04
+ADANIPORTS,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,31.15,36.75
+ADANIPORTS,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,33.97,47.75
+ADANIPORTS,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,39.98,41.06
+ADANIPORTS,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.31,175.77
+ADANIPORTS,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,112.06,-128.9
+ADANIPORTS,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,32.09,99.48
+ADANIPORTS,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,80.16,-89.33
+ADANIPORTS,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,25.34,101.8
+ADANIPOWER,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,60.73,
+ADANIPOWER,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,30.66,
+ADANIPOWER,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,25.35,
+ADANIPOWER,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.61,465.52
+ADANIPOWER,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.36,
+ADANIPOWER,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.56,
+ADANIPOWER,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.12,
+ADANIPOWER,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.7,
+ADANIPOWER,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.34,380.0
+ADANIPOWER,2022-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,208.33
+ADANIPOWER,2023-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,78.6
+ADANIPOWER,2024-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,68.03
+AMBUJACEM,2012-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.98,113.93
+AMBUJACEM,2013-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.41,60.33
+AMBUJACEM,2014-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.58,81.98
+AMBUJACEM,2015-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.88,182.43
+AMBUJACEM,2016-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,20.73,-94.49
+AMBUJACEM,2017-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.13,137.69
+AMBUJACEM,2018-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.94,31.55
+AMBUJACEM,2019-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.39,127.49
+AMBUJACEM,2020-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.37,113.13
+AMBUJACEM,2021-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.93,88.98
+AMBUJACEM,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,37.19,-454.56
+AMBUJACEM,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,26.96,-69.54
+APOLLOHOSP,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,19.45,-95.71
+APOLLOHOSP,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.17,5.4
+APOLLOHOSP,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,14.8,-86.27
+APOLLOHOSP,2016-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,14.44,-123.83
+APOLLOHOSP,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,15.88,-403.82
+APOLLOHOSP,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.91,220.0
+APOLLOHOSP,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.39,97.0
+APOLLOHOSP,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.57,232.41
+APOLLOHOSP,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.33,281.02
+APOLLOHOSP,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.09,85.65
+APOLLOHOSP,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.16,61.61
+APOLLOHOSP,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.06,40.96
+ASIANPAINT,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.41,62.41
+ASIANPAINT,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.8,64.61
+ASIANPAINT,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.42,50.67
+ASIANPAINT,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.07,76.37
+ASIANPAINT,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.52,41.96
+ASIANPAINT,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.25,26.55
+ASIANPAINT,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.77,70.29
+ASIANPAINT,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.56,90.84
+ASIANPAINT,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.49,97.97
+ASIANPAINT,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.09,21.69
+ASIANPAINT,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.72,69.39
+ASIANPAINT,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.18,63.98
+ATGL,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,71.91,-438.89
+ATGL,2019-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,155.46
+ATGL,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,24.59,7.11
+ATGL,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,45.4,-25.05
+ATGL,2022-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,37.29,-78.78
+ATGL,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,26.66,-57.51
+ATGL,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.8,30.39
+AXISBANK,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,40.24,-161.54
+AXISBANK,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,46.23,4.79
+AXISBANK,2015-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,22.47,-314.41
+AXISBANK,2016-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-419.44
+AXISBANK,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,27.97,536.86
+AXISBANK,2018-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,21.86,-17535.14
+AXISBANK,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,33.96,394.51
+AXISBANK,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,15.14,1286.48
+AXISBANK,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,85.7,-632.29
+AXISBANK,2022-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,40.24,7.87
+AXISBANK,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,37.99,-107.27
+AXISBANK,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,8.23,-58.55
+BAJAJ-AUTO,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.96,26.3
+BAJAJ-AUTO,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.29,42.31
+BAJAJ-AUTO,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.76,57.3
+BAJAJ-AUTO,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.3,89.19
+BAJAJ-AUTO,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.59,-8.41
+BAJAJ-AUTO,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.75,56.27
+BAJAJ-AUTO,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.9,44.93
+BAJAJ-AUTO,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,73.87
+BAJAJ-AUTO,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.34,5.17
+BAJAJ-AUTO,2022-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,68.07
+BAJAJ-AUTO,2023-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,87.08
+BAJAJ-AUTO,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.16,84.15
+BAJAJFINSV,2013-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-312.65
+BAJAJFINSV,2014-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-447.6
+BAJAJFINSV,2015-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-445.45
+BAJAJFINSV,2016-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,4.32,-384.9
+BAJAJFINSV,2017-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-316.58
+BAJAJFINSV,2018-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.81,-490.95
+BAJAJFINSV,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,16.2,-632.29
+BAJAJFINSV,2020-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,18.3,-555.84
+BAJAJFINSV,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.08,11.71
+BAJAJFINSV,2022-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-404.98
+BAJAJFINSV,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,16.99,-437.55
+BAJAJFINSV,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,9.93,-510.64
+BAJAJHLDNG,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,109.5,5.6
+BAJAJHLDNG,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,122.7,17.76
+BAJAJHLDNG,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,88.55,16.36
+BAJAJHLDNG,2016-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,50.64
+BAJAJHLDNG,2017-03,-1,-1,-1,- / - / -,Balanced Capital Transition,44.18,-52.37
+BAJAJHLDNG,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,267.38,19.13
+BAJAJHLDNG,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,37.82,15.26
+BAJAJHLDNG,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,183.91,36.36
+BAJAJHLDNG,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,67.4,-0.99
+BAJAJHLDNG,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,31.2,35.36
+BAJAJHLDNG,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,26.25,32.17
+BAJAJHLDNG,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,27.73,19.95
+BAJFINANCE,2015-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,6.68,-826.73
+BAJFINANCE,2016-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,9.41,-825.41
+BAJFINANCE,2017-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,30.56,-734.53
+BAJFINANCE,2018-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-823.96
+BAJFINANCE,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,29.1,-862.1
+BAJFINANCE,2020-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,33.21,-630.13
+BAJFINANCE,2021-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.61,-27.96
+BAJFINANCE,2022-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-527.75
+BAJFINANCE,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,25.1,-456.26
+BAJFINANCE,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,13.04,-553.12
+BANKBARODA,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.41,469.7
+BANKBARODA,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,1.8,824.13
+BANKBARODA,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.24,437.52
+BANKBARODA,2016-03,-1,-1,-1,- / - / -,Balanced Capital Transition,8.74,
+BANKBARODA,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.24,933.37
+BANKBARODA,2018-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.9,
+BANKBARODA,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,4.8,-341.85
+BANKBARODA,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,0.18,1874.82
+BANKBARODA,2021-03,-1,-1,-1,- / - / -,Balanced Capital Transition,0.63,-83.83
+BANKBARODA,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.97,32.33
+BANKBARODA,2023-03,-1,-1,-1,- / - / -,Balanced Capital Transition,1.16,-149.62
+BANKBARODA,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.09,-40.06
+BEL,2013-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-168.94
+BEL,2014-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-59.77
+BEL,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.83,49.71
+BEL,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,19.99,59.09
+BEL,2017-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-4.01
+BEL,2018-03,-1,-1,-1,- / - / -,Balanced Capital Transition,0.06,-48.43
+BEL,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.37,32.75
+BEL,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.0,105.26
+BEL,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,18.39,118.95
+BEL,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,31.7,-27.71
+BEL,2023-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,40.15
+BEL,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,29.23,-31.74
+BHARTIARTL,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,24.27,173.45
+BHARTIARTL,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,29.33,34.85
+BHARTIARTL,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,23.21,114.06
+BHARTIARTL,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.6,200.94
+BHARTIARTL,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,32.14,-56.59
+BHARTIARTL,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,33.81,87.64
+BHARTIARTL,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,35.02,-486.73
+BHARTIARTL,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,33.81,
+BHARTIARTL,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,27.12,
+BHARTIARTL,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,35.59,163.02
+BHARTIARTL,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,28.2,212.36
+BHARTIARTL,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,34.06,324.95
+BHEL,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,2.28,9.65
+BHEL,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,2.19,104.05
+BHEL,2015-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,56.62
+BHEL,2016-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,
+BHEL,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.98,-1.1
+BHEL,2018-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,225.8
+BHEL,2019-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-385.23
+BHEL,2020-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,
+BHEL,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.24,
+BHEL,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.27,-102.92
+BHEL,2023-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-113.3
+BHEL,2024-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-1316.67
+BOSCHLTD,2012-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.52,4.91
+BOSCHLTD,2013-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.66,23.84
+BOSCHLTD,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.79,15.92
+BOSCHLTD,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.26,21.1
+BOSCHLTD,2017-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,83.69
+BOSCHLTD,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.01,40.77
+BOSCHLTD,2019-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,37.11
+BOSCHLTD,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.87,71.23
+BOSCHLTD,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.76,77.18
+BOSCHLTD,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.28,19.56
+BOSCHLTD,2023-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,85.25
+BOSCHLTD,2024-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,50.32
+BPCL,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.49,119.94
+BPCL,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.6,66.79
+BPCL,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.34,200.83
+BPCL,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.92,23.32
+BPCL,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,7.59,-65.56
+BPCL,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.0,40.87
+BPCL,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,3.5,-3.45
+BPCL,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,3.91,-88.76
+BPCL,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.07,121.14
+BPCL,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.35,104.42
+BPCL,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.65,218.68
+BPCL,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.35,94.62
+BRITANNIA,2013-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,123.08
+BRITANNIA,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.56,107.59
+BRITANNIA,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.73,19.45
+BRITANNIA,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.4,30.79
+BRITANNIA,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.66,32.88
+BRITANNIA,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.65,29.08
+BRITANNIA,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.71,26.32
+BRITANNIA,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,13.16,-2.94
+BRITANNIA,2021-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,101.35
+BRITANNIA,2022-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,85.75
+BRITANNIA,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.24,44.0
+BRITANNIA,2024-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,120.57
+CANBK,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.28,252.92
+CANBK,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.96,518.86
+CANBK,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.52,178.78
+CANBK,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.01,
+CANBK,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,1.15,148.76
+CANBK,2018-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.18,
+CANBK,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.55,2513.22
+CANBK,2020-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.89,
+CANBK,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,1.59,1961.52
+CANBK,2022-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,2.02,-8.28
+CANBK,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.35,-362.57
+CANBK,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.58,86.33
+CHOLAFIN,2013-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-1218.83
+CHOLAFIN,2014-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.53,-687.5
+CHOLAFIN,2015-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.08,-518.92
+CHOLAFIN,2016-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,3.25,-512.35
+CHOLAFIN,2017-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,4.73,-235.38
+CHOLAFIN,2018-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.08,-869.93
+CHOLAFIN,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.15,-779.28
+CHOLAFIN,2020-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.62,-201.99
+CHOLAFIN,2021-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,18.22,-696.52
+CHOLAFIN,2022-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-258.64
+CHOLAFIN,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,16.67,-1097.67
+CHOLAFIN,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,14.9,-1126.84
+CIPLA,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,24.92,-43.04
+CIPLA,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.43,21.23
+CIPLA,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,8.37,18.14
+CIPLA,2016-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,32.87,-201.88
+CIPLA,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.06,104.15
+CIPLA,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.5,44.39
+CIPLA,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.32,0.2
+CIPLA,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,204.53
+CIPLA,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.39,57.81
+CIPLA,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.54,57.64
+CIPLA,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.44,30.43
+CIPLA,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.57,27.73
+COALINDIA,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.68,41.92
+COALINDIA,2014-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,96.12
+COALINDIA,2015-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,104.77
+COALINDIA,2016-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,92.2
+COALINDIA,2017-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,177.38
+COALINDIA,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.09,189.94
+COALINDIA,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.93,48.44
+COALINDIA,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,29.8
+COALINDIA,2021-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,83.39
+COALINDIA,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,23.44,88.57
+COALINDIA,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.97,38.68
+COALINDIA,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.15,36.44
+DABUR,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.13,32.38
+DABUR,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.47,108.52
+DABUR,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.24,16.01
+DABUR,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.38,36.44
+DABUR,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.6,32.81
+DABUR,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.01,40.57
+DABUR,2019-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,103.67
+DABUR,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.95,75.76
+DABUR,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.68,41.95
+DABUR,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.69,30.37
+DABUR,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.06,53.2
+DABUR,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.83,57.54
+DIVISLAB,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.89,37.38
+DIVISLAB,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.05,32.6
+DIVISLAB,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.73,35.8
+DIVISLAB,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.75,56.13
+DIVISLAB,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,28.05,0.94
+DIVISLAB,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.28,33.98
+DIVISLAB,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.85,19.88
+DIVISLAB,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.54,82.28
+DIVISLAB,2021-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,98.14
+DIVISLAB,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,24.5,-9.56
+DIVISLAB,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,34.85,-13.6
+DIVISLAB,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.43,62.0
+DLF,2013-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,301.2
+DLF,2014-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,248.81
+DLF,2015-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,401.78
+DLF,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.24,701.31
+DLF,2017-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-126.84
+DLF,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,31.34,-40.92
+DLF,2019-03,1,1,1,+ / + / +,Balanced Capital Transition,0.0,155.48
+DLF,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,
+DLF,2021-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,134.81
+DLF,2022-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,188.8
+DLF,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.09,94.1
+DLF,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,23.79,37.08
+DMART,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.91,-110.64
+DMART,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,5.76,-44.72
+DMART,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,7.36,-118.87
+DMART,2016-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,7.37,-62.5
+DMART,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,20.86,-423.17
+DMART,2018-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,90.57
+DMART,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,4.79,-16.74
+DMART,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,18.73,-259.57
+DMART,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.6,24.11
+DMART,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.16,5.56
+DMART,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.4,13.33
+DMART,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.86,10.96
+DRREDDY,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.14,-3.86
+DRREDDY,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.96,18.64
+DRREDDY,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,15.78,6.59
+DRREDDY,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.34,77.57
+DRREDDY,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.31,19.66
+DRREDDY,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.38,33.79
+DRREDDY,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.98,107.74
+DRREDDY,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.83,122.85
+DRREDDY,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.84,67.37
+DRREDDY,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.91,11.27
+DRREDDY,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.66,39.47
+DRREDDY,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.4,9.13
+EICHERMOT,2012-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.1,-58.32
+EICHERMOT,2013-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.6,-14.1
+EICHERMOT,2014-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.89,-23.79
+EICHERMOT,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.22,34.53
+EICHERMOT,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,24.8,-2.16
+EICHERMOT,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,23.93,17.19
+EICHERMOT,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.74,41.53
+EICHERMOT,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.47,10.18
+EICHERMOT,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,18.64,4.9
+EICHERMOT,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.55,32.44
+EICHERMOT,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.6,14.62
+EICHERMOT,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,17.14,22.24
+GAIL,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,16.92,-46.32
+GAIL,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.23,3.11
+GAIL,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.64,44.46
+GAIL,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.74,163.07
+GAIL,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.69,168.64
+GAIL,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.88,127.14
+GAIL,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.48,34.84
+GAIL,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,11.44,0.48
+GAIL,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.09,70.86
+GAIL,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.92,31.94
+GAIL,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,5.12,-75.91
+GAIL,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.17,44.03
+GODREJCP,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,13.49,-5.33
+GODREJCP,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.5,75.95
+GODREJCP,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.94,-21.41
+GODREJCP,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.38,27.08
+GODREJCP,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,24.2,-29.28
+GODREJCP,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.41,84.88
+GODREJCP,2019-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,73.83
+GODREJCP,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.57,69.21
+GODREJCP,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.65,100.99
+GODREJCP,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.88,34.04
+GODREJCP,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.17,23.33
+GODREJCP,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,24.37,
+GRASIM,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,20.38,-38.25
+GRASIM,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.25,41.06
+GRASIM,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.43,86.56
+GRASIM,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.09,39.16
+GRASIM,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.73,89.0
+GRASIM,2018-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-112.26
+GRASIM,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.87,-141.02
+GRASIM,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.65,79.17
+GRASIM,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.35,113.48
+GRASIM,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.1,53.41
+GRASIM,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,11.66,-238.28
+GRASIM,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,17.65,-340.85
+HAL,2017-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-16.17
+HAL,2018-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-36.94
+HAL,2019-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-327.96
+HAL,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.22,7.14
+HAL,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.2,430.19
+HAL,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,51.95,-51.3
+HAL,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,21.29,53.38
+HAL,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,21.11,23.88
+HAVELLS,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.02,85.03
+HAVELLS,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.67,110.31
+HAVELLS,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.73,124.16
+HAVELLS,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.59,30.15
+HAVELLS,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.59,110.73
+HAVELLS,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.66,23.3
+HAVELLS,2019-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,63.58
+HAVELLS,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.81,37.96
+HAVELLS,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,7.3,-9.87
+HAVELLS,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.45,81.02
+HAVELLS,2023-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,52.71
+HAVELLS,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.7,26.36
+HCLTECH,2013-06,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.23,52.75
+HCLTECH,2014-06,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,15.06,24.74
+HCLTECH,2015-06,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.69,47.0
+HCLTECH,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.09,28.83
+HCLTECH,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.18,59.32
+HCLTECH,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.42,69.85
+HCLTECH,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.39,56.47
+HCLTECH,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,17.45,9.29
+HCLTECH,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.52,124.93
+HCLTECH,2022-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,124.97
+HCLTECH,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.52,97.24
+HCLTECH,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.01,100.83
+HDFCBANK,2013-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.52,-97.77
+HDFCBANK,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,2.58,35.49
+HDFCBANK,2015-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.58,-206.31
+HDFCBANK,2016-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.33,-275.11
+HDFCBANK,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.56,105.35
+HDFCBANK,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,0.99,88.21
+HDFCBANK,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.43,-286.8
+HDFCBANK,2020-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.15,-66.94
+HDFCBANK,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.42,127.61
+HDFCBANK,2022-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.51,-36.73
+HDFCBANK,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,1.75,38.62
+HDFCBANK,2024-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,29.14
+HDFCLIFE,2013-03,0,0,0,0 / 0 / 0,Balanced Capital Transition,0.0,
+HDFCLIFE,2014-03,0,0,0,0 / 0 / 0,Balanced Capital Transition,0.0,
+HDFCLIFE,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.91,120.23
+HDFCLIFE,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,21.84,211.14
+HDFCLIFE,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.89,118.71
+HDFCLIFE,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.7,209.39
+HDFCLIFE,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,26.21,-24.57
+HDFCLIFE,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,26.51,-30.92
+HDFCLIFE,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,12.52,55.18
+HDFCLIFE,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.19,387.49
+HDFCLIFE,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,14.34,-233.04
+HDFCLIFE,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.42,-183.8
+HEROMOTOCO,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.39,64.08
+HEROMOTOCO,2015-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,92.47
+HEROMOTOCO,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.08,45.69
+HEROMOTOCO,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.89,57.39
+HEROMOTOCO,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.72,58.01
+HEROMOTOCO,2019-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,29.77
+HEROMOTOCO,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.64,73.76
+HEROMOTOCO,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.39,62.02
+HEROMOTOCO,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.75,80.81
+HEROMOTOCO,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.23,78.32
+HEROMOTOCO,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.84,82.71
+HINDALCO,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,17.21,-359.96
+HINDALCO,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,9.23,-6.33
+HINDALCO,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.71,1262.55
+HINDALCO,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.26,
+HINDALCO,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.87,521.31
+HINDALCO,2018-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,179.16
+HINDALCO,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.18,118.67
+HINDALCO,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.12,146.48
+HINDALCO,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,19.15,-231.07
+HINDALCO,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.47,73.31
+HINDALCO,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.39,115.37
+HINDALCO,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.61,96.4
+HINDUNILVR,2013-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,93.9
+HINDUNILVR,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.62,84.5
+HINDUNILVR,2015-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,75.23
+HINDUNILVR,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.88,93.69
+HINDUNILVR,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.54,89.35
+HINDUNILVR,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.99,95.58
+HINDUNILVR,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.11,88.48
+HINDUNILVR,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,112.83
+HINDUNILVR,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.61,99.2
+HINDUNILVR,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.29,82.32
+HINDUNILVR,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.45,83.87
+HINDUNILVR,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.6,98.67
+ICICIBANK,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,41.36,-10.55
+ICICIBANK,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,31.83,-76.95
+ICICIBANK,2015-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,23.97,-196.63
+ICICIBANK,2016-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,20.34,106.02
+ICICIBANK,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.81,449.07
+ICICIBANK,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,81.32,-342.51
+ICICIBANK,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,42.07,323.24
+ICICIBANK,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,49.62,333.81
+ICICIBANK,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,71.36,365.27
+ICICIBANK,2022-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,41.35,70.33
+ICICIBANK,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,55.91,-201.52
+ICICIBANK,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,90.74,27.23
+ICICIGI,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,23.98,6.23
+ICICIGI,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,16.22,-21.35
+ICICIGI,2015-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-16.75
+ICICIGI,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.14,39.64
+ICICIGI,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,26.46,-51.57
+ICICIGI,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,27.43,57.31
+ICICIGI,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,25.58,11.44
+ICICIGI,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,29.37,4.27
+ICICIGI,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.24,27.63
+ICICIGI,2022-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,63.65
+ICICIGI,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.43,34.99
+ICICIGI,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.38,25.33
+ICICIPRULI,2013-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-174.32
+ICICIPRULI,2014-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-152.59
+ICICIPRULI,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.29,-79.21
+ICICIPRULI,2016-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,220.24
+ICICIPRULI,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.84,204.16
+ICICIPRULI,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.88,18.59
+ICICIPRULI,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,18.23,335.21
+ICICIPRULI,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,51.35,-206.28
+ICICIPRULI,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.11,233.26
+ICICIPRULI,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.28,133.73
+ICICIPRULI,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.27,-129.89
+ICICIPRULI,2024-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-859.58
+INDIGO,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,20.54,-18.93
+INDIGO,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,26.21,-278.27
+INDIGO,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.75,110.74
+INDIGO,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.28,89.58
+INDIGO,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.32,45.15
+INDIGO,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,18.04,-11.11
+INDIGO,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.86,406.41
+INDIGO,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.79,
+INDIGO,2021-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,
+INDIGO,2022-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,
+INDIGO,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.42,
+INDIGO,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,17.07,115.39
+INDUSINDBK,2013-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.49,-62.21
+INDUSINDBK,2014-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.11,-303.98
+INDUSINDBK,2015-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.85,-94.59
+INDUSINDBK,2016-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.17,-139.33
+INDUSINDBK,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.98,393.44
+INDUSINDBK,2018-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.26,-580.06
+INDUSINDBK,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.84,-212.72
+INDUSINDBK,2020-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-272.5
+INDUSINDBK,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.78,1566.29
+INDUSINDBK,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.14,352.4
+INDUSINDBK,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.21,-174.28
+INDUSINDBK,2024-03,-1,-1,-1,- / - / -,Balanced Capital Transition,1.37,-195.17
+INFY,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.24,47.21
+INFY,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.11,68.15
+INFY,2015-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,67.52
+INFY,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.42,67.78
+INFY,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,21.41,-21.83
+INFY,2018-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,82.46
+INFY,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.76,92.21
+INFY,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.36,100.2
+INFY,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.34,81.61
+INFY,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.33,78.57
+INFY,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.73,88.75
+INFY,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.31,76.64
+IOC,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,2.01,1.27
+IOC,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.81,80.39
+IOC,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.27,736.39
+IOC,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.93,96.79
+IOC,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.98,51.67
+IOC,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.06,53.02
+IOC,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,4.27,-56.86
+IOC,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.02,
+IOC,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.3,122.76
+IOC,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.61,17.31
+IOC,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.33,13.79
+IOC,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.05,91.83
+IRCTC,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.34,17.56
+IRCTC,2016-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,152.38
+IRCTC,2017-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,147.6
+IRCTC,2018-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,10.86
+IRCTC,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,18.88,47.25
+IRCTC,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,79.73
+IRCTC,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,58.3,-109.63
+IRCTC,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.88,42.73
+IRCTC,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.95,49.2
+IRCTC,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.04,60.04
+IRFC,2016-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-1929.09
+IRFC,2017-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-2082.98
+IRFC,2018-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-1366.23
+IRFC,2019-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-1851.35
+IRFC,2020-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-1964.32
+IRFC,2021-03,-1,0,1,- / 0 / +,Financial Distress / External Funding Dependency,0.0,-2035.94
+IRFC,2022-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.02,-1057.75
+IRFC,2023-03,-1,0,1,- / 0 / +,Financial Distress / External Funding Dependency,0.0,-463.56
+IRFC,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.03,123.3
+ITC,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.27,41.81
+ITC,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.22,45.44
+ITC,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.59,46.71
+ITC,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.0,61.87
+ITC,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.6,70.4
+ITC,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.37,52.68
+ITC,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.47,54.82
+ITC,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.5,54.61
+ITC,2021-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,93.6
+ITC,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.69,87.33
+ITC,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.08,67.49
+ITC,2024-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,82.79
+JINDALSTEL,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,48.42,-205.59
+JINDALSTEL,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,65.82,-427.95
+JINDALSTEL,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,34.62,
+JINDALSTEL,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.62,
+JINDALSTEL,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.25,
+JINDALSTEL,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.3,
+JINDALSTEL,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.77,
+JINDALSTEL,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.89,
+JINDALSTEL,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.45,236.16
+JINDALSTEL,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.56,202.73
+JINDALSTEL,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.69,81.96
+JINDALSTEL,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,16.57,-39.31
+JIOFIN,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2466.67,3048.39
+JIOFIN,2024-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-42.24
+JSWENERGY,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.64,86.68
+JSWENERGY,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.2,250.79
+JSWENERGY,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.51,218.85
+JSWENERGY,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,33.31,18.22
+JSWENERGY,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.22,496.15
+JSWENERGY,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.67,4375.29
+JSWENERGY,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.6,356.14
+JSWENERGY,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,192.6
+JSWENERGY,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.88,324.42
+JSWENERGY,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.98,89.79
+JSWENERGY,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,65.6,-317.16
+JSWENERGY,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,71.37,-113.8
+JSWSTEEL,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.22,44.24
+JSWSTEEL,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,10.97,-752.24
+JSWSTEEL,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.92,29.27
+JSWSTEEL,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.28,
+JSWSTEEL,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.16,80.59
+JSWSTEEL,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.3,128.41
+JSWSTEEL,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,13.43,43.14
+JSWSTEEL,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,26.71,-173.62
+JSWSTEEL,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.65,140.82
+JSWSTEEL,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.08,55.03
+JSWSTEEL,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.47,304.25
+JSWSTEEL,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.27,-26.62
+KOTAKBANK,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,83.36,-275.11
+KOTAKBANK,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.43,314.13
+KOTAKBANK,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,33.54,-69.73
+KOTAKBANK,2016-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,11.53,75.82
+KOTAKBANK,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,23.69,158.06
+KOTAKBANK,2018-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,21.79,-253.55
+KOTAKBANK,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,11.14,-20.84
+KOTAKBANK,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,39.04,390.45
+KOTAKBANK,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,34.04,-62.97
+KOTAKBANK,2022-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,32.31,-21.47
+KOTAKBANK,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,24.63,-77.88
+KOTAKBANK,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,15.86,37.15
+LICI,2019-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,505.29
+LICI,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.44,514.83
+LICI,2021-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,2710.22
+LICI,2022-03,-1,1,0,- / + / 0,Balanced Capital Transition,0.0,-91.71
+LICI,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.74,4.64
+LICI,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.99,2.08
+LODHA,2016-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,10.35,-66.43
+LODHA,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.81,50.51
+LODHA,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.73,5.67
+LODHA,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.47,-38.81
+LODHA,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,508.36
+LODHA,2021-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,5258.33
+LODHA,2022-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,165.4
+LODHA,2023-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,561.22
+LODHA,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,28.57,-27.99
+LT,2013-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,9.3,-213.14
+LT,2014-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,6.48,-259.02
+LT,2015-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,5.2,-123.7
+LT,2016-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,4.58,-171.32
+LT,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,8.96,-48.43
+LT,2018-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-125.32
+LT,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,8.15,-154.44
+LT,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,5.78,-15.73
+LT,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.23,134.08
+LT,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.29,149.52
+LT,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.39,117.54
+LT,2024-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,117.49
+LTIM,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.82,68.33
+LTIM,2014-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,63.05
+LTIM,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.07,70.09
+LTIM,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.68,97.85
+LTIM,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.78,21.52
+LTIM,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.19,35.25
+LTIM,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.93,42.61
+LTIM,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.91,65.86
+LTIM,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.4,38.34
+LTIM,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.29,40.71
+LTIM,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.82,64.04
+LTIM,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.03,38.21
+M&M,2013-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,4.23,-92.64
+M&M,2014-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,6.11,-92.51
+M&M,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.1,-97.66
+M&M,2016-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,7.26,-87.82
+M&M,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,7.01,-140.51
+M&M,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,5.94,-60.13
+M&M,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,6.85,-191.47
+M&M,2020-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,9.11,
+M&M,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,26.5,-117.53
+M&M,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.61,82.67
+M&M,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,7.31,-140.14
+M&M,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,4.04,-91.65
+MARUTI,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.04,38.06
+MARUTI,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.22,-0.07
+MARUTI,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.84,51.4
+MARUTI,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.55,22.78
+MARUTI,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.47,14.77
+MARUTI,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.4,44.23
+MARUTI,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.11,40.01
+MARUTI,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.74,51.76
+MARUTI,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.36,35.66
+MARUTI,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.27,41.26
+MARUTI,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.45,24.14
+MARUTI,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.36,36.6
+MOTHERSON,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.3,87.83
+MOTHERSON,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.51,120.6
+MOTHERSON,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,8.21,42.26
+MOTHERSON,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.12,15.9
+MOTHERSON,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,14.5,-107.97
+MOTHERSON,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.67,3.1
+MOTHERSON,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.22,47.38
+MOTHERSON,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.66,319.32
+MOTHERSON,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.29,201.72
+MOTHERSON,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.61,13.45
+MOTHERSON,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.85,143.41
+MOTHERSON,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.73,30.63
+NAUKRI,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.75,38.16
+NAUKRI,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,35.98,-205.0
+NAUKRI,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,143.58,
+NAUKRI,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.27,64.41
+NAUKRI,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,18.58,
+NAUKRI,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,15.08,20.76
+NAUKRI,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.13,36.66
+NAUKRI,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,
+NAUKRI,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,181.12,-124.61
+NAUKRI,2022-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,74.07,-3.65
+NAUKRI,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,15.26,
+NAUKRI,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,33.6,-25.21
+NESTLEIND,2013-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.85,121.31
+NESTLEIND,2014-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.38,102.28
+NESTLEIND,2015-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.86,182.59
+NESTLEIND,2016-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.38,133.87
+NESTLEIND,2017-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.31,137.71
+NESTLEIND,2018-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.46,124.46
+NESTLEIND,2019-12,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,116.62
+NESTLEIND,2020-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.4,102.45
+NESTLEIND,2021-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.02,14.92
+NESTLEIND,2022-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.32,98.08
+NESTLEIND,2023-12,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.85,82.19
+NESTLEIND,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.07,74.7
+NHPC,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,20.84,52.77
+NHPC,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,15.18,165.46
+NHPC,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.34,117.69
+NHPC,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.93,220.93
+NHPC,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,21.62,185.78
+NHPC,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.42,136.8
+NHPC,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.16,93.16
+NHPC,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,29.85,0.18
+NHPC,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,16.66,96.19
+NHPC,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,33.73,39.9
+NHPC,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,39.51,12.06
+NHPC,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,61.96,24.08
+NTPC,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,23.55,-2.68
+NTPC,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,19.8,8.96
+NTPC,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,19.98,-10.89
+NTPC,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,26.11,46.03
+NTPC,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,29.84,-40.26
+NTPC,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,23.48,-9.6
+NTPC,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,23.99,-38.31
+NTPC,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,27.07,-48.21
+NTPC,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,18.86,76.22
+NTPC,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,17.25,111.42
+NTPC,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.84,122.7
+NTPC,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,18.01,40.52
+ONGC,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,25.45,-5.61
+ONGC,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,36.55,-38.86
+ONGC,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,18.68,21.98
+ONGC,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,30.84,61.33
+ONGC,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,15.51,6.74
+ONGC,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,20.7,-38.38
+ONGC,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.81,71.68
+ONGC,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.4,152.18
+ONGC,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.88,37.66
+ONGC,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.39,75.16
+ONGC,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.81,34.69
+ONGC,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.67,73.66
+PFC,2013-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-565.62
+PFC,2014-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-411.44
+PFC,2015-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.96,-365.52
+PFC,2016-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,7.08,-246.94
+PFC,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,2.42,50.45
+PFC,2018-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-649.63
+PFC,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,24.88,-741.42
+PFC,2020-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.12,-445.51
+PFC,2021-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-376.32
+PFC,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.72,23.22
+PFC,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.18,-360.79
+PFC,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,3.73,-382.56
+PIDILITIND,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.92,77.36
+PIDILITIND,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.31,65.56
+PIDILITIND,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.0,22.57
+PIDILITIND,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.16,51.55
+PIDILITIND,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,15.65,-9.85
+PIDILITIND,2018-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,82.4
+PIDILITIND,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.25,35.78
+PIDILITIND,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,114.08
+PIDILITIND,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,23.15,-26.29
+PIDILITIND,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.62,32.89
+PIDILITIND,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.62,51.12
+PIDILITIND,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.29,54.67
+PNB,2013-03,-1,-1,-1,- / - / -,Balanced Capital Transition,1.39,-25.74
+PNB,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,0.67,451.93
+PNB,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,1.79,111.83
+PNB,2016-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,2.66,
+PNB,2017-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,1770.62
+PNB,2018-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,
+PNB,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.21,
+PNB,2020-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.62,-2707.42
+PNB,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,0.96,1119.22
+PNB,2022-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,1.58,481.78
+PNB,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,0.84,650.79
+PNB,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.38,-321.56
+POWERGRID,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,168.83,-240.99
+POWERGRID,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,171.26,-251.01
+POWERGRID,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,137.88,-166.17
+POWERGRID,2016-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,104.47,-110.22
+POWERGRID,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,92.76,-30.34
+POWERGRID,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,85.8,-36.46
+POWERGRID,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,53.42,45.29
+POWERGRID,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,28.44,180.9
+POWERGRID,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,23.32,167.49
+POWERGRID,2022-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,155.28
+POWERGRID,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,15.65,214.43
+POWERGRID,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,28.61,155.24
+RECLTD,2013-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-523.32
+RECLTD,2014-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-363.72
+RECLTD,2015-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-447.19
+RECLTD,2016-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,3.13,-246.6
+RECLTD,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.41,106.19
+RECLTD,2018-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-730.4
+RECLTD,2019-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-624.73
+RECLTD,2020-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-657.92
+RECLTD,2021-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-519.36
+RECLTD,2022-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.73,-11.02
+RECLTD,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.39,-343.0
+RECLTD,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,3.85,-421.03
+RELIANCE,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.97,44.61
+RELIANCE,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,16.86,-132.2
+RELIANCE,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,17.28,-128.31
+RELIANCE,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.28,6.52
+RELIANCE,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,21.78,-55.81
+RELIANCE,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,17.45,9.05
+RELIANCE,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,16.63,-130.94
+RELIANCE,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.15,56.12
+RELIANCE,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,30.53,-214.79
+RELIANCE,2022-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,15.71,2.2
+RELIANCE,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,10.61,29.74
+RELIANCE,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.63,57.21
+SBILIFE,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.53,143.33
+SBILIFE,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.1,-74.45
+SBILIFE,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.76,310.8
+SBILIFE,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,37.28,-168.96
+SBILIFE,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,29.57,-53.09
+SBILIFE,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,26.15,129.13
+SBILIFE,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,30.38,-5.95
+SBILIFE,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,38.78,162.66
+SBILIFE,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,23.44,321.09
+SBILIFE,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,26.04,16.0
+SBILIFE,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,37.46,-89.89
+SBILIFE,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,23.65,-110.82
+SBIN,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.35,118.9
+SBIN,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,0.42,123.93
+SBIN,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.65,128.27
+SBIN,2016-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,1.25,90.1
+SBIN,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.98,
+SBIN,2018-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,
+SBIN,2019-03,1,1,1,+ / + / +,Balanced Capital Transition,0.0,882.01
+SBIN,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,0.21,110.57
+SBIN,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,1.32,361.06
+SBIN,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.91,148.03
+SBIN,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.28,-150.61
+SBIN,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.79,26.11
+SHREECEM,2013-06,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.98,98.61
+SHREECEM,2014-06,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,21.59,21.22
+SHREECEM,2015-06,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,15.82,58.45
+SHREECEM,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,22.94,26.33
+SHREECEM,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,23.83,11.5
+SHREECEM,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,36.56,-123.99
+SHREECEM,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.73,133.99
+SHREECEM,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,43.44,-104.73
+SHREECEM,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,19.55,68.59
+SHREECEM,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.28,41.37
+SHREECEM,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.47,6.92
+SHREECEM,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.91,111.31
+SHRIRAMFIN,2013-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.58,-574.16
+SHRIRAMFIN,2014-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,1.32,-306.85
+SHRIRAMFIN,2015-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.49,-939.3
+SHRIRAMFIN,2016-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.35,-468.16
+SHRIRAMFIN,2017-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.02,-211.61
+SHRIRAMFIN,2018-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-515.57
+SHRIRAMFIN,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.49,-217.82
+SHRIRAMFIN,2020-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.33,-100.28
+SHRIRAMFIN,2021-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.14,-170.63
+SHRIRAMFIN,2022-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.18,-326.83
+SHRIRAMFIN,2023-03,-1,1,1,- / + / +,Financial Distress / External Funding Dependency,0.0,-292.77
+SHRIRAMFIN,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,0.71,-423.83
+SIEMENS,2011-09,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,0.35
+SIEMENS,2014-09,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,100.83
+SIEMENS,2015-09,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,48.89
+SIEMENS,2016-09,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,17.6
+SIEMENS,2017-09,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,50.4
+SIEMENS,2018-09,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.36,-8.21
+SIEMENS,2019-09,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.67,12.56
+SIEMENS,2020-09,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,93.63
+SIEMENS,2021-09,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,18.1,-88.8
+SIEMENS,2022-09,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.21,61.18
+SIEMENS,2023-09,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.88,32.67
+SIEMENS,2024-09,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.26,42.97
+SUNPHARMA,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,21.34,28.31
+SUNPHARMA,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,13.53,45.97
+SUNPHARMA,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.48,75.13
+SUNPHARMA,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.86,48.37
+SUNPHARMA,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.26,36.91
+SUNPHARMA,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.72,31.59
+SUNPHARMA,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.07,58.79
+SUNPHARMA,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.78,103.79
+SUNPHARMA,2021-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,271.57
+SUNPHARMA,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.37,101.18
+SUNPHARMA,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,16.45,-26.56
+SUNPHARMA,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.57,118.34
+TATACONSUM,2013-03,1,1,1,+ / + / +,Balanced Capital Transition,0.0,38.88
+TATACONSUM,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.01,82.55
+TATACONSUM,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.59,77.29
+TATACONSUM,2016-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,
+TATACONSUM,2017-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,162.86
+TATACONSUM,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.45,58.45
+TATACONSUM,2019-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,45.95
+TATACONSUM,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.45,100.0
+TATACONSUM,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.98,140.86
+TATACONSUM,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.6,19.61
+TATACONSUM,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.05,47.5
+TATACONSUM,2024-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,12.57,2.14
+TATAMOTORS,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.17,-8.08
+TATAMOTORS,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.02,58.08
+TATAMOTORS,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,13.77,-4.98
+TATAMOTORS,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.44,10.33
+TATAMOTORS,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,14.67,-124.02
+TATAMOTORS,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,8.62,-14.1
+TATAMOTORS,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.91,
+TATAMOTORS,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,12.68,
+TATAMOTORS,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,10.28,
+TATAMOTORS,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.6,
+TATAMOTORS,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.46,742.42
+TATAMOTORS,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.2,141.9
+TATAPOWER,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.13,-601.63
+TATAPOWER,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.1,23950.0
+TATAPOWER,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,11.51,463.02
+TATAPOWER,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.12,713.74
+TATAPOWER,2017-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,26.73,-32.64
+TATAPOWER,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.63,185.83
+TATAPOWER,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.91,165.08
+TATAPOWER,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.69,522.95
+TATAPOWER,2021-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,579.92
+TATAPOWER,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.6,20.55
+TATAPOWER,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,13.18,-2.55
+TATAPOWER,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.69,83.39
+TATASTEEL,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.72,
+TATASTEEL,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,10.35,-60.9
+TATASTEEL,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.47,
+TATASTEEL,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.62,
+TATASTEEL,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.45,
+TATASTEEL,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,9.52,-20.89
+TATASTEEL,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,18.5,-42.1
+TATASTEEL,2020-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.02,524.45
+TATASTEEL,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.04,426.01
+TATASTEEL,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.47,80.18
+TATASTEEL,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.47,43.39
+TATASTEEL,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.22,
+TECHM,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,9.05,17.83
+TECHM,2014-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,52.12
+TECHM,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,8.24,21.93
+TECHM,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.48,55.63
+TECHM,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,9.93,41.32
+TECHM,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,10.79,6.21
+TECHM,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,6.06,54.28
+TECHM,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,111.83
+TECHM,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,14.35,61.13
+TECHM,2022-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,93.87
+TECHM,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.42,110.07
+TECHM,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.53,211.01
+TITAN,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.4,56.69
+TITAN,2014-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.48,-112.38
+TITAN,2015-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.99,47.18
+TITAN,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.41,61.78
+TITAN,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,7.19,108.9
+TITAN,2018-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-4.63
+TITAN,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.03,32.11
+TITAN,2020-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-23.31
+TITAN,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,12.93,137.58
+TITAN,2022-03,-1,1,-1,- / + / -,Balanced Capital Transition,0.0,-32.94
+TITAN,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,4.47,-13.56
+TITAN,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.37,43.08
+TORNTPHARM,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,7.71,-21.61
+TORNTPHARM,2014-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,10.02,27.26
+TORNTPHARM,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,45.58,-173.5
+TORNTPHARM,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.0,108.08
+TORNTPHARM,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,13.72,22.59
+TORNTPHARM,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,78.61,-557.96
+TORNTPHARM,2019-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,3.21,355.96
+TORNTPHARM,2020-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,135.9
+TORNTPHARM,2021-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.55,124.68
+TORNTPHARM,2022-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.3,206.82
+TORNTPHARM,2023-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,24.27,2.65
+TORNTPHARM,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.49,187.56
+TRENT,2013-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,12.95,
+TRENT,2014-03,-1,-1,-1,- / - / -,Balanced Capital Transition,2.06,
+TRENT,2015-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,13.4,-244.96
+TRENT,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.81,20.0
+TRENT,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.43,68.24
+TRENT,2018-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,0.19,83.91
+TRENT,2019-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,1.41,-16.84
+TRENT,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,23.21,-422.64
+TRENT,2021-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,
+TRENT,2022-03,1,1,-1,+ / + / -,Divestment & Capital Return,0.0,165.71
+TRENT,2023-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.25,124.87
+TRENT,2024-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,4.11,56.94
+TVSMOTOR,2013-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,1.6,173.74
+TVSMOTOR,2014-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,2.8,125.67
+TVSMOTOR,2015-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,4.05,-101.22
+TVSMOTOR,2016-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.32,77.16
+TVSMOTOR,2017-03,1,-1,-1,+ / - / -,Organic Expansion & Deleveraging,5.69,-3.93
+TVSMOTOR,2018-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,6.7,-111.43
+TVSMOTOR,2019-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,5.48,-278.9
+TVSMOTOR,2020-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,5.78,-110.82
+TVSMOTOR,2021-03,1,-1,1,+ / - / +,Debt/Equity Funded Expansion,4.54,44.24
+TVSMOTOR,2022-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,6.04,-416.69
+TVSMOTOR,2023-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,4.09,-436.44
+TVSMOTOR,2024-03,-1,-1,1,- / - / +,Financial Distress / External Funding Dependency,2.56,-126.7

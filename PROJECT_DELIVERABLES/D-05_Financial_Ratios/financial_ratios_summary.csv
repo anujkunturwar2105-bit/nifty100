@@ -1,0 +1,6 @@
+metric,value
+total_records,1246
+unique_companies,92
+year_range,2011-03 to TTM
+kpi_columns_count,55
+sample_columns,"id, company_id, year, net_profit_margin_pct, operating_profit_margin_pct, ebit_margin_pct, ebitda_margin_pct, pbt_margin_pct, cost_to_sales_pct, return_on_equity_pct"
